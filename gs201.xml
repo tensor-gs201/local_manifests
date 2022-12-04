@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <!--Device tree-->
+  <project name="tensor-gs201/device_google_pantah" path="device/google/pantah" revision="triton" remote="github"/>
+  <project name="tensor-gs201/device_google_gs201" path="device/google/gs201" revision="triton" remote="github"/>
+  
+  <!-- Kernel -->
+  <project name="tensor-gs201/kernel_google_gs201" path="kernel/google/gs201" revision="triton" remote="github"/>
+
+</manifest>
